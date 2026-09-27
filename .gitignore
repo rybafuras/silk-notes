@@ -1,0 +1,12 @@
+/bin/
+/artifacts/
+/test-output/
+/release/
+.vs/
+*.user
+*.suo
+*.tmp
+*.pdb
+*.zip
+Thumbs.db
+Desktop.ini
